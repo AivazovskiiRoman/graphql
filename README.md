@@ -1,5 +1,8 @@
 #  GraphQL
 
+### Description:
+Fun project
+
 ### Sources and tools:
 - [Create React App](https://github.com/facebook/create-react-app)
 - [Material-UI](https://material-ui.com)
@@ -16,7 +19,7 @@
 
 ### Quick start:
 - `git clone https://github.com/AivazovskiiRoman/graphql.git`
-- Open **server** folder and run `npm install`
+- Open **server** folder and run `yarn`
 	- Run server: `npm run dev`
-- Open **application** folder and run: `yarn install`
+- Open **application** folder and run: `yarn`
 	- Run the project: `yarn start`
